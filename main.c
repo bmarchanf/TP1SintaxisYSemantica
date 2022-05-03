@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <ctype.h>
 
+//Brisabed Alexandra Marchan Figuera
+
 int main()
 {
     printf("%s \n","Ingrese oracion");
